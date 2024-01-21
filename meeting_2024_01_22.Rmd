@@ -31,6 +31,14 @@ Le **scale Wechsler** in prossima uscita (*Wechsler Intelligence Scale for Child
 
 \small (Internazionalmente sono edite da *Pearson Assessment*, ma in Italia i diritti sono stati acquisiti da *Giunti Psychometrics*)
 
+
+## Importanza delle scale Wechsler
+
+- Ampiamente usate da professionisti e **sistema sanitario pubblico** come *"Gold Standard"*, informano **diagnosi** e **certificazioni** che hanno **valore legale** e grande **impatto sulla vita delle persone** 
+- Per storia, tradizione, ma anche qualità, **in questo momento NON hanno adeguate alternative**, almeno in Italia
+- **Potenziali alternative**, come la *batteria Kaufman* (*KABC-II*) e le *matrici di Raven* (*CPM*, *SPM*) sono **comunque edite da *Giunti Psychometrics* ** 
+
+
 ## Scale Wechsler: quali dati disponibili?
 
 ::: columns
@@ -47,17 +55,12 @@ Le **scale Wechsler** in prossima uscita (*Wechsler Intelligence Scale for Child
 :::: column
 **Cosa c'è/ci sarà**
 
-- \small Statistiche descrittive dei punteggi standardizzati *(serious, Giunti?!)*
+- \small Statistiche descrittive dei punteggi standardizzati *(seriously, Giunti?!)*
 - \small Stime di attendibilità (non riproducibili)
 - \small Alcuni confronti tipici-clinici
+- \small (*tutto lo scoring avviene esclusivamente online*)
 ::::
 :::
-
-## Importanza delle scale Wechsler
-
-- Ampiamente usate da professionisti e **sistema sanitario pubblico** come *"Gold Standard"*, informano **diagnosi** e **certificazioni** che hanno **valore legale** e grande **impatto sulla vita delle persone** 
-- Per storia, tradizione, ma anche qualità, **in questo momento NON hanno adeguate alternative**, almeno in Italia
-- **Potenziali alternative**, come la *batteria Kaufman* (*KABC-II*) e le *matrici di Raven* (*CPM*, *SPM*) sono **comunque edite da *Giunti Psychometrics* ** 
 
 ## Il rischio
 
