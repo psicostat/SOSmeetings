@@ -17,7 +17,7 @@ header-includes:
 
 ## Dove eravamo?
 
-Da anni *Giunti Psychometrics* (non da sola) produce e pubblica strumenti psicometrici che **NON riportano in chiaro i dati minimi necessari per verificare validità e attendibilità dei punteggi standardizzati / dei profili**, cioè statistiche descrittive dei punteggi grezzi per ogni campione e subcampione, tabelle di conversione grezzo-ponderato, matrici di varianza e covarianza
+Da anni *Giunti Psychometrics* (non da sola) produce e pubblica strumenti psicometrici che **NON riportano in chiaro i dati minimi necessari per verificare validità e attendibilità dei punteggi standardizzati e dei profili** (cioè: statistiche descrittive dei punteggi grezzi per ogni campione e subcampione, tabelle di conversione grezzo-ponderato, matrici di varianza e covarianza)
 
 
 <!-------------------------------------->
