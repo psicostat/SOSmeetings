@@ -17,7 +17,7 @@ header-includes:
 
 ## Dove eravamo?
 
-Da anni *Giunti Psychometrics* (non da sola) produce e pubblica strumenti psicometrici che **NON riportano in chiaro i dati minimi necessari per verificare attendibilità e correttezza dei punteggi standardizzati / dei profili**, cioè statistiche descrittive dei punteggi grezzi per ogni campione e subcampione, tabelle di conversione grezzo-ponderato, matrici di varianza e covarianza
+Da anni *Giunti Psychometrics* (non da sola) produce e pubblica strumenti psicometrici che **NON riportano in chiaro i dati minimi necessari per verificare validità e attendibilità dei punteggi standardizzati / dei profili**, cioè statistiche descrittive dei punteggi grezzi per ogni campione e subcampione, tabelle di conversione grezzo-ponderato, matrici di varianza e covarianza
 
 
 <!-------------------------------------->
@@ -61,7 +61,7 @@ Le **scale Wechsler** in prossima uscita (*Wechsler Intelligence Scale for Child
 
 ## Il rischio
 
-È accettabile che **diagnosi** e **certificazioni** con **impatto legale** e **sociale** si basino su punteggi elaborati da un editore privato tramite una *"black box"* il cui **unico garante è lo stesso editore che vende il test**?
+È accettabile che **diagnosi** e **certificazioni** con **impatto legale** e **sociale** si basino su punteggi/profili elaborati da un editore privato tramite una *"black box"* il cui **unico garante è lo stesso editore che vende i test**?
 
 
 \small Ulteriori problemi riguardano didattica e ricerca.
@@ -71,7 +71,7 @@ Le **scale Wechsler** in prossima uscita (*Wechsler Intelligence Scale for Child
 https://doi.org/10.17605/OSF.IO/H54QS
 
 ```{r figurafrontespizioinesattezze, echo=F, cache=T, out.width="100%"}
-knitr::include_graphics("figurafrontespizioinesattezze2.png")
+knitr::include_graphics("Figures/figurafrontespizioinesattezze2.png")
 ```
 
 
