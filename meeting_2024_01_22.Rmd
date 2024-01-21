@@ -82,7 +82,7 @@ knitr::include_graphics("Figures/figurafrontespizioinesattezze2.png")
 
 ## La via dell'accordo condiviso
 
-**Cercare una mediazione** con *Giunti Psychometrics* e altre case editrici, che comunque da sempre collaborano in modo proficuo con accademici e professionisti, per una soluzione condivisa e accettabile per entrambe le parti (es. quali proposte al tavolo di martedì?)
+**Cercare una mediazione** con *Giunti Psychometrics* e altre case editrici, che comunque da sempre collaborano in modo proficuo con accademici e professionisti, per una soluzione condivisa e **accettabile per entrambe le parti** (es. quali proposte al tavolo di martedì?)
 
 ## Class action #1
 
