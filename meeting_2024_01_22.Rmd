@@ -11,6 +11,7 @@ output:
   slide_level: 2
 header-includes:
   - \renewcommand{\tightlist}{\setlength{\itemsep}{6pt}\setlength{\parskip}{0pt}}
+  - \titlegraphic{\includegraphics[width = 3cm]{Figures/psicostatlogo.pdf}}
 ---
 
 # PASSATO
